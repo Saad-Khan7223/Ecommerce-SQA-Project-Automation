@@ -35,7 +35,6 @@ The following modules have been automated:
 - Shopping Cart
 - Wishlist
 - My Account
-- Checkout
 - Logout
 
 ---
